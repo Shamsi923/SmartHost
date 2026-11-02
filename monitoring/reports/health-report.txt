@@ -1,0 +1,18 @@
+========================================
+       SMARTHOST SERVER MONITOR
+========================================
+Hostname: shamsi
+Operating System: Linux
+Date: 2026-11-01 12:19:49.809198
+
+DISK INFORMATION
+Total: 9.94 GB
+Used: 2.0 GB
+Free: 7.94 GB
+
+MEMORY INFORMATION
+MemTotal:        1264244 kB
+MemAvailable:     874904 kB
+
+SERVER STATUS: RUNNING
+========================================

@@ -1,0 +1,13 @@
+SMART HOST SERVER REPORT
+Hostname: shamsi
+OS: PRETTY_NAME="Astra Linux 9.7 (Blue Onyx)"
+Date: Sun Nov  1 12:06:31 PM EST 2026
+User: student
+Uptime: up 1 hour, 2 minutes
+RAM:
+               total        used        free      shared  buff/cache   available
+Mem:           1.2Gi       378Mi       742Mi       4.0Mi       261Mi       855Mi
+Swap:             0B          0B          0B
+DISK:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda1        10G  2.0G  8.0G  21% /
